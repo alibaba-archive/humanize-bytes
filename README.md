@@ -1,4 +1,4 @@
-humanize-byte
+humanize-bytes
 ---------------
 
 [![NPM version][npm-image]][npm-url]
